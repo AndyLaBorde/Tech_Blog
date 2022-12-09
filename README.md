@@ -7,8 +7,8 @@
 
 
 ## Table of Contents  
--[Project Description](#description)
--[Installation}(#installation)
+-[Project Description](#description)  
+-[Installation](#installation)  
 -[User Story](#user-story)  
 -[Acceptance Criteria](#acceptance-criteria)  
 -[Mock Up](#mock-up)  
